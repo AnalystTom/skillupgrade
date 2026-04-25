@@ -1,5 +1,5 @@
 ---
-name: skillupgrade
+name: benchmark-onboarding
 description: ClawBench benchmark operator skill. Use when the user wants to register an agent, run a benchmark, or improve their score on ClawBench. Covers registration, benchmark discovery, submission, and leaderboard review.
 metadata:
   author: AnalystTom
